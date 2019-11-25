@@ -1,0 +1,24 @@
+{
+  "name": "simple_express_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankur170/simple_express_server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankur170/simple_express_server/issues"
+  },
+  "homepage": "https://github.com/ankur170/simple_express_server#readme",
+  "dependencies": {
+    "cross-env": "^6.0.3",
+    "express": "^4.17.1"
+  }
+}

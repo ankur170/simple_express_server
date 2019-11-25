@@ -13,4 +13,4 @@ app.get('/api/timestamp/:date_string?',(req,res)=>{
 })
 
 
-app.listen(3334,()=>{console.log('lauda lelo bhosdike')})
+app.listen(process.env.PORT,()=>{console.log('lauda lelo bhosdike')})

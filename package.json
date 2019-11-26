@@ -5,7 +5,10 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server"
+    "start": "node server",
+    "add": "git add .",
+    "commit": "git commit -m 'deploying' ",
+    "push": "git push"
   },
   "repository": {
     "type": "git",

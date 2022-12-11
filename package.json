@@ -23,6 +23,6 @@
   "homepage": "https://github.com/ankur170/simple_express_server#readme",
   "dependencies": {
     "cross-env": "^6.0.3",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
